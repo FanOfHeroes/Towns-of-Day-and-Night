@@ -53,7 +53,7 @@ This mod was made possible thanks to the creative vision of FanOfHeroes and the 
 ## Modification
 
 You can also change/add graphics not only for any of the standard 9 cities, but also for new cities that can be added to the game by other mods:
-> [!Attention]
+> [!ATTENTION]
 > You can (and I, daemon_n, recommend) place your graphics in the archives of other mods, so that when updating this mod, you do not lose the changes you made;
 
 ### Adding/Changing a static city background
