@@ -25,13 +25,13 @@ _"Towns of Day and Night"_ brings a whole new level of immersion and realism to 
 #### **Screenshots**
 
 - **Morning in Castle**  
-  ![Screenshot](Screens/0.png)
+  ![Screenshot](Screens/2.png)
 
 - **Night in Necropolis**  
-  ![Screenshot](Screens/1.png)
+  ![Screenshot](Screens/6.png)
 
-- **Dusk in Tower**  
-  ![Screenshot](Screens/2.png)
+- **Dusk in Stronghold**  
+  ![Screenshot](Screens/4.png)
 
 ---
 
