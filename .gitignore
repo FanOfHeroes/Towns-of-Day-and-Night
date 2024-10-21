@@ -2,6 +2,10 @@
 * text=false
 
 
+*.iobj
+*.ipdb
+*.pdb
+
 .gitignore export-ignore
 .gitattributes export-ignore
 .git*           export-ignore
