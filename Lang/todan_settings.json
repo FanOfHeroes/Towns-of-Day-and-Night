@@ -1,0 +1,33 @@
+{
+    "todan": {
+        "animations": {
+            "TBIn": {
+                "1": [
+                    "volcano.def"
+                ]
+            },
+            "TBNc": {
+                "-1": [
+                    "lightnin.def",
+                    "rain.def"
+                ]
+            },
+            "TBTw": {
+                "-1": [
+                    "snowfall.def"
+                ]
+            }
+        },
+        "townTypeNames": {
+            "TBCs": "Castle",
+            "TBDn": "Dungeon",
+            "TBEl": "Conflux",
+            "TBFr": "Fortress",
+            "TBIn": "Inferno",
+            "TBNc": "Necropolis",
+            "TBRm": "Rampart",
+            "TBSt": "Stronghold",
+            "TBTw": "Tower"
+        }
+    }
+}
