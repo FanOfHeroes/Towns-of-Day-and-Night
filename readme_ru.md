@@ -26,13 +26,11 @@
 #### **Скриншоты**
 
 - **Утро в замке**
-![Screenshot](Screenshot/2.png)
+[**Утро в замке**](https://raw.githubusercontent.com/FanOfHeroes/Towns-of-Day-and-Night/refs/heads/main/Screens/0.png)
 
-- **Ночь в некрополисе**
-![Screenshot](Screenshot/6.png)
+- [**Ночь в некрополисе**](https://raw.githubusercontent.com/FanOfHeroes/Towns-of-Day-and-Night/refs/heads/main/Screens/6.png)
 
-- **Сумерки в крепости**
-![Screenshot](Screenshot/4.png)
+- [**Сумерки в крепости**](https://raw.githubusercontent.com/FanOfHeroes/Towns-of-Day-and-Night/refs/heads/main/Screens/4.png)
 
 ---
 
@@ -53,7 +51,7 @@
 ## Modification
 
 Вы также можете изменить/добавить графику не только для любого из стандартных 9 городов, но и для новых городов, которые могут быть добавлены в игру иными модами:
-> [!ATTENTION]
+> [!IMPORTANT]
 > Вы можете (а я, daemon_n, рекомендую) помещать вашу графику в архивы иных модов, чтобы при обновлении данного мода не потерять внесённые изменения;
 
 ### Добавление/Изменение статичного фона городов
