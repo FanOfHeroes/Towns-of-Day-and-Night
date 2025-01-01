@@ -16,7 +16,7 @@
 	"author": "FanOfHeroes, daemon_n",
 	"homepage": "https://github.com/FanOfHeroes/Towns-of-Day-and-Night",
 	"icon": {
-		"file": "",
+		"file": "ToDaN.png",
 		"index": 0
 	},
 	"mod_version": "0.6",
